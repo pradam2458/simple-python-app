@@ -8,6 +8,8 @@ def helloWorld():
 def helloWorld():
     return "Hey World"
 
+print(*sad)
+
 input_ = input("Enter a command:")
 os.system(input_)
 
